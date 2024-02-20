@@ -21,5 +21,5 @@ def printfs(*vars):
                 ss=vars[n-1]
                 print(ss)
          
-print("xxxx")
+
 printfs("\x1bc\x1b[41;37mhello world %s  \n",10)
