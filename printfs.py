@@ -1,6 +1,6 @@
 def printfs(*vars):
     lens=len(vars)
-    print("*********")
+    
     i:int=0
     if lens==0:
         i=0
