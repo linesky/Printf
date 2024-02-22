@@ -1,0 +1,4 @@
+hello=Hello world\n....
+mem=1234
+xs=xxx
+
