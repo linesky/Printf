@@ -30,6 +30,7 @@ def fformat(ff:float,separators:str)->str:
        pos=l-1-i
        sreturn=s[pos]+sreturn
    ssreturn=sreturn+"."
+   sreturn=""
    s=""
    if len(pointers2)>1:
        s=pointers2[1].strip()  
