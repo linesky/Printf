@@ -1,4 +1,4 @@
-def centers(s:str,i:int):
+def tabs(s:str,i:int):
     xx:int=i
     
     xxx:int=len(s)
@@ -15,4 +15,4 @@ def centers(s:str,i:int):
     print(xxx)
 print("\x1bc\x1b[41;37m")
 for i in range(10):
-    centers("*"*(i*2),80)
+    tabs("*"*(i*2),80)
